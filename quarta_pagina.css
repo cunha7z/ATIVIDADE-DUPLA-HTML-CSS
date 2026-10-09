@@ -1,0 +1,30 @@
+body{
+background-image: url(assets/dimraeth.jpg);
+
+background-attachment: fixed;
+
+background-size: cover;
+
+background-position: center;
+
+}
+
+h1{
+    text-align: start;
+    color:aliceblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+p{
+    text-align: center;
+    color: wheat;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    background-color: azure;
+    border-radius: 10%;
+}
