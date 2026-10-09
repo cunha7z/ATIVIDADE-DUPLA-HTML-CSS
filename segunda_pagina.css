@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeSfKHie5g34oHM2sPd9_r6B35V9FHuEizvfAAuALPn0Lsrm03IRqhF4E&s=10);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98SSCQgJsFeLzUy6LNkwvqUep-9lVqGIbf8CXUhiwxP8YmRL52d4wHPwu&s=10);
 
     background-attachment: fixed;
 
@@ -9,13 +9,13 @@ body {
 
 }
 
-.fundo {
+ .fundo {
     border-radius: 5px;
-    background-color: rgba(146, 233, 175, 0.6);
-}
+    background-color: rgba(220, 233, 221, 0.6);
+} 
 h1 {
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(33, 107, 15);
     font-family: cursive;
     font-size: 20px;
 }
@@ -23,7 +23,7 @@ h1 {
 p {
     text-align: center;
     color: rgb(0, 0, 0);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 button {
