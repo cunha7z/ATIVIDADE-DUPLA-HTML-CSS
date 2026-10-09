@@ -1,0 +1,35 @@
+body{
+background-image: url(assets/For\ the\ King\ 2.jpg);
+
+background-attachment: fixed;
+
+background-size: cover;
+
+background-position: center;
+
+}
+
+h1{
+    text-align: start;
+    color:bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h2{
+    text-align: start;
+    color:lavender;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p {
+    text-align: center;
+    color:whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    background-color: azure;
+    border-radius: 10%;
+}
