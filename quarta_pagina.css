@@ -7,6 +7,7 @@ background-size: cover;
 
 background-position: center;
 
+image-rendering: pixelated;
 }
 
 h1{
@@ -17,7 +18,7 @@ h1{
 
 p{
     text-align: center;
-    color: wheat;
+    color: rgb(255, 0, 0);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 
 }
