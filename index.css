@@ -10,20 +10,23 @@ body {
 }
 
 .fundo {
+    width: 900px;
+    align-content: end;
+    margin: 40px auto;
     border-radius: 5px;
     background-color: rgba(146, 233, 175, 0.6);
 }
 h1 {
     text-align: center;
     color: rgb(0, 0, 0);
-    font-family: cursive;
+    font-family: 'Bangers', cursive, sans-serif;
     font-size: 20px;
 }
 
 p {
     text-align: center;
     color: rgb(0, 0, 0);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive
 }
 
 button {
